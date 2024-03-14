@@ -50,7 +50,3 @@ To fetch video transcripts from a YouTube channel, follow these steps:
 4. The script will start fetching the transcripts from all videos in the specified channel and save them in separate text files.
 
 **N.B.** Not all videos have a transcript!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
